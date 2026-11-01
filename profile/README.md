@@ -25,7 +25,7 @@ Available in Persian, English, Chinese, German, Spanish and Polish. MIT licensed
 **بازی کنید**
 - در مرورگر: [choganhq.github.io/chogan](https://choganhq.github.io/chogan/). می‌شود آن را مثل اپ نصب کرد.
 - در اندروید: [اف‌دروید](https://f-droid.org/packages/io.github.choganhq.chogan/)، یا فایل APK از [صفحه‌ی Releases](https://github.com/choganhq/chogan/releases).
-- در تلگرام: [@chogangamebot](https://t.me/chogangamebot). خبر نسخه‌های تازه در کانال [@chogan_games](https://t.me/chogan_games) می‌آید.
+- در تلگرام: [ربات چوگان](https://t.me/chogangamebot). خبر نسخه‌های تازه در [کانال چوگان](https://t.me/chogan_games) می‌آید.
 
 متن‌باز با مجوز MIT. گزارش ایراد، پیشنهاد و PR در [choganhq/chogan](https://github.com/choganhq/chogan) خوش‌آمد است.
 
