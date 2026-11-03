@@ -10,7 +10,7 @@
 </p>
 
 **Play**
-- In the browser: [choganhq.github.io/chogan](https://choganhq.github.io/chogan/). You can install it as an app.
+- In the browser: [playchogan.com](https://playchogan.com), which opens [choganhq.github.io/chogan](https://choganhq.github.io/chogan/). You can install it as an app.
 - On Android: [F-Droid](https://f-droid.org/packages/io.github.choganhq.chogan/), or the APK on [GitHub Releases](https://github.com/choganhq/chogan/releases).
 - In Telegram: [@chogangamebot](https://t.me/chogangamebot). Release news is posted to [@chogan_games](https://t.me/chogan_games).
 
@@ -23,7 +23,7 @@ Available in Persian, English, Chinese, German, Spanish and Polish. MIT licensed
 **بازی‌های کوتاه و تمام‌شدنی، همه در یک اپ رایگان.** پنجاه بازی صفحه‌ای، ورقی، پازل و آرکید داریم، از جمله پاسور، حکم و شلم. همه‌اش آفلاین کار می‌کند و تبلیغ، خرید درون‌برنامه‌ای و ردیاب ندارد. اپ اندروید جز لرزش هیچ مجوزی نمی‌خواهد، حتی اینترنت.
 
 **بازی کنید**
-- در مرورگر: [choganhq.github.io/chogan](https://choganhq.github.io/chogan/). می‌شود آن را مثل اپ نصب کرد.
+- در مرورگر: [playchogan.com](https://playchogan.com)، که [choganhq.github.io/chogan](https://choganhq.github.io/chogan/) را باز می‌کند. می‌شود آن را مثل اپ نصب کرد.
 - در اندروید: [اف‌دروید](https://f-droid.org/packages/io.github.choganhq.chogan/)، یا فایل APK از [صفحه‌ی Releases](https://github.com/choganhq/chogan/releases).
 - در تلگرام: [ربات چوگان](https://t.me/chogangamebot). خبر نسخه‌های تازه در [کانال چوگان](https://t.me/chogan_games) می‌آید.
 
